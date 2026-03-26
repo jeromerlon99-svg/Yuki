@@ -1,0 +1,2 @@
+# Yuki
+A minimalist AI idea manager that limits your focus to 2 active projects while automatically summarizing and archiving the rest into an "Icebox" using your own Gemini API key.
