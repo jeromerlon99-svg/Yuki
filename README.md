@@ -6,3 +6,5 @@ The clients can directly install the app on their android through the apk file.
 v1.2 Discussion function added, multiple LLMs added, detailed steps structure added, local database support added.SQLite stores all data in a single .db file, and you can specify any local path (e.g., /Users/your name/yuki-data/yuki.db).
 
 v1.3 Fixed a bug. 
+
+v1.5 Fixed the problems of mixing ideas and APIs from different terminals. 
